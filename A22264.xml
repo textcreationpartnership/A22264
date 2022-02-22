@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, orders decreed vpon for the furtherance of our seruice, asvvell in vvriting, as riding in poste specially set downe, and commanded to be obserued, where our posts are established within our countie of Kent.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22264</idno>
+            <idno type="STC">STC 8675.6</idno>
+            <idno type="STC">ESTC S802</idno>
+            <idno type="EEBO-CITATION">22456956</idno>
+            <idno type="OCLC">ocm 22456956</idno>
+            <idno type="VID">25558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1775:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, orders decreed vpon for the furtherance of our seruice, asvvell in vvriting, as riding in poste specially set downe, and commanded to be obserued, where our posts are established within our countie of Kent.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giuen at our manour of Greenwich, the 15. day of May, in the seuenth yeere of our raigne of Great Britaine, France and Ireland."</note>
+                  <note>Formerly STC 8436; reprints STC 8435.--Cf. STC (2nd ed.).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  Great Britain --  History.</term>
+               <term>Postal service --  England --  Kent --  History.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:25558:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head>
+               <g ref="char:leaf">❧</g> Orders decreed vpon for the furtherance of our ſeruice, aſwell in writing, as riding in Poſte; ſpecially ſet downe, and commanded to be obſerued, where our Poſts are eſtabli<g ref="char:EOLhyphen"/>ſhed <hi>within our Countie of Kent.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as amongſt the ſundry conſultations and prouident cares taken for the maintenance of the quiet peace of the State,<note place="margin">The Motiue of theſe Orders.</note> it hath not beene the leaſt that our Predeceſſors heretofore, and the Counſel of this Realme haue had, to meete with the dangerous and ſecret intelligences of ill affected perſons both at home and abroad, by the ouer-great liberty taken both in writing and riding in Poſte, ſpecially in and through our Countie of Kent, for the vſuall and frequent paſſage that way, falling out to and from all forraine parts beyond the Seas,<note place="margin">Security to the State, by preuen<g ref="char:EOLhyphen"/>ting Intelligence betweene the ill affected.</note> the ground whereof ſtill riſing from diſorders offered by certaine perſons called Hackney-men, Tapſters, Hoſtlers and others in hiring out their horſes, to the hinderance of publique ſeruice, danger to our State, and wrong to our ſtanding and ſetled Poſtes in their ſeuerall Stages: Wee haue now thought it meete, with the aduiſe of our right truſty and welbeloued Coſins and Counſellers, <hi>Robert</hi> Earle of <hi>Salisbury,</hi> our high Trea<g ref="char:EOLhyphen"/>ſurer of England, <hi>Henry</hi> Earle of <hi>Northampton</hi> our Lord Priuie Seale, and Lord Warden of our Cinque Ports, and of our truſtie and right welbeloued Counſeller, <hi>Iohn</hi> Lord Stanhope of <hi>Harrington,</hi> our Vice-Chamberlaine, and Maſter of our Poſtes, to ſet downe and eſtabliſh certaine Orders aſwell for the Pacquet as <hi>Thorough-Poſtes,</hi> the due execution whereof we likewiſe command and recommend to all Mayors, Portreeues, Bayliffes and other Head officers in the Cities, Townes and Ports of our ſaid Countie of Kent,<note place="margin">And his Maie<g ref="char:EOLhyphen"/>ſties ſpeciall ſer<g ref="char:EOLhyphen"/>uice.</note> where the Stages of our ſtanding Poſtes are now eſtabliſhed and appointed, and to the Iuſtices of our Peace next reſiding, as they or any of them doe tender our Seruice, the ſafety of our State, and will anſwere the neglect or contempt hereof at their perils.</p>
+            <div type="part">
+               <head>
+                  <g ref="char:leaf">❧</g> Orders for the Pacquet.</head>
+               <p>FIrſt, that no Pacquets or Letters ſhall be ſent by Poſte, or bind any Poſte to ride therewith in poſte, but ſuch as ſhall be directed firſt for our ſpeciall af<g ref="char:EOLhyphen"/>faires, and ſubſcribed by the Writers name or Sender thereof:<note place="margin">What Packets ſhall run in Poſte. From the Court. To the Court.</note> neither ſhall it be holden for our affaires, but as the ſame ſhall be directed and ſubſcribed by our High Treaſurer, Lord Warden of the Cinque Ports, Lord Admirall, Principall Secretary of State, Lord Lieutenant of the ſaid County, or Maſter of our Poſtes writing from the Court, or otherwiſe to the Court, ſubſcribed by any Admirall, or Vice-admirall from the narrow Seas, Lieutenant of Douer Caſtle, or Mayor or his Deputy of any Port Towne, Ambaſſadors, or Agents beyond the Seas for the time being, or Deputie Lieutenant of our ſaid Coun<g ref="char:EOLhyphen"/>tie, writing to any of theſe perſonages aforenamed, or to the body of our Priuie Counſell.</p>
+               <p n="2">2 All Pacquets or Letters ſo directed ſhall be caried by the Poſtes in poſte from Stage to Stage onely,<note place="margin">The Poſtes to runne from Stage to Stage only.</note> and not otherwiſe nor further, being dated firſt on the outſide by the Sender or writer, and afterwards by the Poſtes themſelues, as they come to their hands, with the houre and place of their deliuery, who ſhall runne therewith in Summer,<note place="margin">In Summer af<g ref="char:EOLhyphen"/>ter 7. miles the houre, and in Winter after the rate of fiue.</note> viz. from the firſt of Aprill, to the laſt of September, after 7, miles the houre, and 5. miles the houre in Winter, which is the reſt of the yeere, as the wayes and weather affoard.</p>
+               <p n="3">3 And that it may appeare from time to time (as oft as ſhall be needfull) with what expedition the ſeruice is by our Poſtes performed, euery Poſte ſhall keepe a faire paper booke to enter the Pacquets in, being ſo brought vnto him, with the day, moneth and houre they came to his hands, two leather bagges lined with cotten or bayes,<note place="margin">The Poſtes to haue bookes of Entries, bagges and hornes.</note> to cary the Pacquet in, and hornes to ſound, as oft as he meets and ſees company comming, or 4. times in euery mile.</p>
+               <p n="4">4 And to the ende our Poſtes attending thus our ſpeciall ſeruice, may performe their ſeuerall duties in that behalfe, our pleaſure is, that they and euery of them ſhall brooke and enioy the benefit of all former fauours and immunities by our Predeceſſor allowed them: Namely that they and their ſeruants be holden free and exempted from all Summons,<note place="margin">The Poſtes ex<g ref="char:EOLhyphen"/>emption and free<g ref="char:EOLhyphen"/>dome.</note> Preſts, and perſonall attendances at Aſsiſes. Seſsions, Inqueſts, and Muſters.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <g ref="char:leaf">❧</g> Orders for the Thorough-Poſtes.</head>
+               <p>
+                  <note place="margin">The Poſtes to horſe all riding with horne or guide.</note> FIrſt, as the ſeruice of the Pacquet, ſo the horſing of all Thorough-Poſtes, and perſons riding in poſte, with horne or guide, by Commiſsion or other<g ref="char:EOLhyphen"/>wiſe, ſhall be performed by our ſtanding Poſtes in their ſeuerall Stages, who to that end ſhall keepe, and haue in a readineſſe vnder their directions a ſuf<g ref="char:EOLhyphen"/>ficient number of Poſte-horſes, with ſaddles, bridles and furniture conuenient: and if it ſhall fall out, that by the repaire of Ambaſſadors, or other accidents of ſeruice,<note place="margin">To be aſſiſted by Magiſtrates, if need require.</note> men riding in poſte, that is to ſay, with horne or guide, come ſo thicke, or in ſuch numbers, that their ordinary prouiſion will not ſuffice, then the Conſtables of the places where they dwell, with the aide and aſsiſtance of the chiefe Magiſtrates there, and the Countreys adioyning, (being required in our name) ſhall take vp,<note place="margin">No mans free<g ref="char:EOLhyphen"/>dome being im<g ref="char:EOLhyphen"/>peached.</note> bring in and ſupply the Poſtes with horſes and with cariages, where they may be had or hired.</p>
+               <p n="2">2 And that it be not any way a let or impeachment to the liberty of any man riding on his owne or ordinary affaires, within the Realme at his or their pleaſure:<note place="margin">Who are to bee horſed by the Poſtes, and at what rate the mile.</note> it is hereby meant that all Strangers, ſpecially riding with horne or guide by themſelues, or in company of our ordinary meſſengers or Poſtes for the Lowe Countreys, or France, all Ambaſſadours, riding or ſending in their Princes affaires, and all other whatſoeuer, riding with horne or guide, ſhall take and change their horſe onely of the Poſtes of that place, or with his conſent and appointment, they taking for each horſe after the rate of iij.d. the mile beſide the guide groat.</p>
+               <p n="3">
+                  <note place="margin">Abuſes to ſtran<g ref="char:EOLhyphen"/>gers not riding in poſte, how preuen<g ref="char:EOLhyphen"/>ted by comming to the Poſtes.</note> 3 And to preuent all aduantages of vnconſcionable dealing, by ſuch as keepe horſes to hire, in the horſing of ſtrangers beyond the ordinary Stages, to the wronging of our Poſtes, and iniury of the beaſt, as the Rider: It is found expedient, and our will and pleaſure is, that all Strangers borne, aſwell going foorth of the Realme, as comming into the ſame, through our ſhire of Kent, although it be about their owne and priuate affaires, without horne or guide, ſhall likewiſe be horſed by our ordinary Poſtes from Stage to Stage,<note place="margin">The rate by the mile.</note> or with the Poſtes knowledge and conſent, not taking for each horſe aboue ij. d. ob. the mile.</p>
+               <p n="4">
+                  <note place="margin">The hire to be firſt paid downe.</note> 4 It ſhall not be lawfull for any ſo riding in poſte, to take and ride away the horſe or horſes of any man, not hauing firſt and aforehand fully paid &amp; ſa<g ref="char:EOLhyphen"/>tisfied the hire,<note place="margin">The horſe not to bee hired be<g ref="char:EOLhyphen"/>yound the next Stage.</note> nor ride them further then the next Stage, without the knowledge and conſent of the Poſte of that Stage, not charge any horſe taken, to ride poſte with any male or burden (beſides the rider) that exceeds the weight of 30. pound. And if it ſhall happen, any to diſobey theſe our commandements, and orders, to the manifeſt wrong of any our Poſtes, iniury of any owner, or hurt of his beaſt: the Officers or Magiſtrates of the place, vpon complaint thereof made,<note place="margin">The Burden of 30. pounds beſides the Rider.</note> ſhall ſtay the party offending, till ſatisfaction bee made, or ſufficient ſecurity giuen to repay the damage. But if it ſo fall out, that the obſti<g ref="char:EOLhyphen"/>nacie of any heerein offending, require further puniſhment then the ordinary power of the Magiſtrate of the place can or may conueniently inflict: Then we require our ſaid Maſter and Comptroller of the Poſtes,<note place="margin">The contempt of theſe Orders to be puniſhed by Magiſtrates, or the Lords of the Counſell.</note> vpon notice thereof giuen him, to ſend for the partie or parties to anſwere their contempt before our Priuie Counſell.</p>
+               <p n="5">5 This being in generall our Will and command, for the ſpeedie, ſafe, and orderly expedition of our publique diſpatches and occurrents, aſwell in wri<g ref="char:EOLhyphen"/>ting for our affaires, as riding in poſte, whatſoeuer beſides ſhall fall out more particularly to the behoofe of our ſaid Poſts, or eaſe of their horſes, that in theſe kind of ſeruices are moſt ſubiect to abuſes, our like care is to be ſpecially reſpected:<note place="margin">The Poſtes re<g ref="char:EOLhyphen"/>liefe and care of their horſes are ſpecially recom<g ref="char:EOLhyphen"/>mended in theſe Orders, for his Highneſſe better Seruice.</note> and to that end we doe hereby eftſoones recommend both the one and the other to the wiſedome and protection of our ſaide Maſter of the Poſtes, and the aide of all Magiſtrates and others that loue the furtherance of our ſeruice, or regard our ſafetie or pleaſure.</p>
+            </div>
+            <closer>
+               <dateline>Giuen at our Manour of Greenwich, <date>the 15. day of May, in the ſeuenth yeere of our Raigne of great Britaine, France and Ireland.</date>
+               </dateline>
+               <signed>Signed by his Maieſtie, and ſubſcribed by Charles Stanhop Knight of the Bath, Lord Stanhop of Harrington, Maſter and Comptroller generall of his Highneſſe Poſtes.</signed>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by BONHAM NORTON and IOHN BILL, Printers to the <hi>Kings moſt Excellent Maieſtie.</hi> 1621.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
